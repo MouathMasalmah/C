@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675772904 source:c:\users\coolnet\desktop\comp 1310\c\quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+
